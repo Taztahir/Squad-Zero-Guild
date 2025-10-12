@@ -1,0 +1,26 @@
+.Header-image{
+  background-image: url(./assets/Header-Image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.orbitron{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.cursor-crosshair {
+  width: 32px;
+  height: 32px;
+  border: 2px solid orange;
+  border-radius: 50%;
+  box-shadow: 0 0 10px orange, 0 0 20px red;
+  transform: translate(-50%, -50%);
+}
