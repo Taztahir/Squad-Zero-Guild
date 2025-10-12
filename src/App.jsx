@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='orbitron cursor-none selection:bg-yellow-500'>
       <Header/>
-      <CustomCursor/>
+      <CustomCursor className="max-lg:hidden"/>
     </div>
   )
 }
