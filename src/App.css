@@ -24,3 +24,10 @@
   box-shadow: 0 0 10px orange, 0 0 20px red;
   transform: translate(-50%, -50%);
 }
+.bg-about{
+  background-image: url(./assets/download_bg.93b13b2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}

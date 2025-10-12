@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 export default function Header() {
   const mottos = [
-    "We don’t play the game — we define it.",
+    "We don’t play the game - we define it.",
     "Fear none, respect few, conquer all.",
     "Born to clash, built to conquer.",
     "Gold blooded. Zero mercy.",
