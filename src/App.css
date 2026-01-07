@@ -31,3 +31,7 @@
   background-position: center;
   
 }
+
+html, body {
+  scroll-behavior: smooth;
+}
