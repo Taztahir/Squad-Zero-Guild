@@ -81,10 +81,10 @@ export default function Header() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8 }}
         >
-          <button className="tactical-btn group relative bg-yellow-500 text-black px-10 py-4 font-black uppercase tracking-widest overflow-hidden transition-all hover:pr-12">
+          <a href="#join-section" className="tactical-btn group relative bg-yellow-500 text-black px-10 py-4 font-black uppercase tracking-widest overflow-hidden transition-all hover:pr-12">
             <span className="relative z-10">Join the Squad</span>
             <span className="absolute right-4 opacity-0 group-hover:opacity-100 transition-all">→</span>
-          </button>
+          </a>
           
           <a href="#scrollToStats"
             className="tactical-btn border border-white/20 text-white hover:bg-white/10 transition-all duration-300 px-10 py-4 font-black uppercase tracking-widest backdrop-blur-md"
